@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/a4af7a4c26505c9d8f645d5e42afc3a2_st_04_seg_attrac.pdf
 file_size: 19216
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
