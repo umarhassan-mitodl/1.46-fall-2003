@@ -4,8 +4,6 @@ description: ''
 file: /courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/ab2d05f517dd647fd7c70f75d1b090c0_ar_msegframework.xls
 file_size: 16384
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
